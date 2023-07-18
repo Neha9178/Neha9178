@@ -27,6 +27,6 @@
 
 
 ## 🛠 Skills
-Python, HTML, CSS, JavaScript
+Python, HTML, CSS, JavaScript, React
 
 
