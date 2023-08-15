@@ -9,10 +9,10 @@
 <body>
     <h1 align="center">Hi, I'm Neha 👋</h1>
     <p align="center"><img src="https://avatars.githubusercontent.com/u/136898282?v=4" height=200px ></p>
-    - 🧠 I'm currently learning MERN <br>
+    - 🧠 I'm currently learning MERN<br>
     - 👀 I’m interested in web development and front-end technologies<br>
-    - 👨‍💻 All of my projects are available at [https://github.com/Neha9178](https://github.com/Neha9178)<br>
-    - 📫 How to reach me [**nehamohapatra97@gmail.com**](mailto:nehamohapatra97.com)<br>
+    - 👨‍💻 All of my projects are available at <a href="https://github.com/Neha9178">https://github.com/Neha9178</a><br>
+    - 📫 How to reach me <a href="mailto:nehamohapatra97@gmail.com">nehamohapatra97@gmail.com</a><br>
     <br><br>
     <h3 align="left">Connect with me: 🔗links</h3>
     <a href="https://www.linkedin.com/in/subhasmita-mohapatra-8b32b4261/" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=xuvGCOXi8Wyg&format=png" alt="linkedin" height="40" width="40" /></a>
@@ -35,6 +35,7 @@
 
 </body>
 </html>
+
 
 
 
