@@ -13,7 +13,7 @@
     - 👀 I’m interested in web development and front-end technologies<br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/Neha9178">https://github.com/Neha9178</a><br>
     - 📫 How to reach me <a href="mailto:nehamohapatra97@gmail.com">nehamohapatra97@gmail.com</a><br>
-    <br><br>
+    <br>
     <h3 align="left">Connect with me: 🔗links</h3>
     <a href="https://www.linkedin.com/in/subhasmita-mohapatra-8b32b4261/" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=xuvGCOXi8Wyg&format=png" alt="linkedin" height="40" width="40" /></a>
     <a href="https://twitter.com/Nehaa_Mohapatra" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13963&format=png" alt="twitter" height="40" width="40" /></a>
