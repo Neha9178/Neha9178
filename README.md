@@ -25,12 +25,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="52" alt="python" />
+      <img src="https://img.icons8.com/?size=2x&id=20909&format=png" height="40" width="52" alt="html5"  />
+      <img src="https://img.icons8.com/?size=2x&id=l75OEUJkPAk4&format=png" height="40" width="52" alt="python" />
       <img src="https://img.icons8.com/?size=2x&id=vEiU8UeAmv0x&format=png" height="40" width="40" alt="sass" />
       <img src="https://img.icons8.com/?size=2x&id=HKNzD81eiiSc&format=png" height="40" width="40" alt="jquery" />
       <img src="https://img.icons8.com/?size=2x&id=21278&format=png" height="40" width="40" alt="css" />
       <img src="https://img.icons8.com/?size=2x&id=8rKdRqZFLurS&format=png" height="40" width="40" alt="mongodb" />
+    </p>
+
+</body>
+</html>
 
 
 
