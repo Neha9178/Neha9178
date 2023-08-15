@@ -7,7 +7,7 @@
     <meta name="description" content="baru belajar html"
 </head>
 <body>
-    <h1 align="center">Hi, I'm Neha 👋</h1>
+    <h1 align="center">Hi👋, I'm Neha</h1>
     <p align="center"><img src="https://avatars.githubusercontent.com/u/136898282?v=4" height=200px ></p>
     - 🧠 I'm currently learning MERN<br>
     - 👀 I’m interested in web development and front-end technologies<br>
