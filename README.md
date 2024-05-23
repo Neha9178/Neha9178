@@ -7,7 +7,7 @@
     <meta name="description" content="baru belajar html"
 </head>
 <body>
-    <h1 align="center">Hi👋, I'm Neha</h1>
+    <h1 align="center">Hi, I'm Neha</h1>
     <p align="center"><img src="https://avatars.githubusercontent.com/u/136898282?v=4" height=200px ></p>
     - 🧠 I'm currently learning MERN<br>
     - 👀 I’m interested in web development and front-end technologies<br>
@@ -27,12 +27,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap"  />
       <img src="https://img.icons8.com/?size=2x&id=20909&format=png" height="40" width="52" alt="html5"  />
       <img src="https://img.icons8.com/?size=2x&id=l75OEUJkPAk4&format=png" height="40" width="52" alt="python" />
-      <img src="https://img.icons8.com/?size=2x&id=vEiU8UeAmv0x&format=png" height="40" width="40" alt="sass" />
-      <img src="https://img.icons8.com/?size=2x&id=HKNzD81eiiSc&format=png" height="40" width="40" alt="jquery" />
       <img src="https://img.icons8.com/?size=2x&id=21278&format=png" height="40" width="40" alt="css" />
-      <img src="https://img.icons8.com/?size=2x&id=8rKdRqZFLurS&format=png" height="40" width="40" alt="mongodb" />
     </p>
-
 </body>
 </html>
 
