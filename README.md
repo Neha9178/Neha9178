@@ -16,7 +16,6 @@
     <br><br>
     <h3 align="left">Connect with me: 🔗links</h3>
     <a href="https://www.linkedin.com/in/subhasmita-mohapatra-8b32b4261/" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=xuvGCOXi8Wyg&format=png" alt="linkedin" height="40" width="40" /></a>
-    <a href="https://twitter.com/Nehaa_Mohapatra" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13963&format=png" alt="twitter" height="40" width="40" /></a>
     <a href="https://www.facebook.com/neha.mohapatra.5203" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=13912&format=png" alt="facebook" height="40" width="40" /></a>
     <a href="https://instagram.com/_ruch.iiii" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=32323&format=png" alt="insta" height="40" width="40" /></a>
     <h3 align="left">🛠 Skills</h3>
